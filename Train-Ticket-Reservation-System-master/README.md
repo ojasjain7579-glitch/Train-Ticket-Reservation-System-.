@@ -1,7 +1,7 @@
-OIBSIP Java Development Internship Projects
+## OIBSIP Java Development Internship Projects
 This repository contains projects completed during Oasis Infobyte Internship.
 
-Task - 1 Online reservation system
+## Task - 1 Online reservation system
 
 ## Features
 
