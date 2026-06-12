@@ -1,12 +1,7 @@
-# Train Ticket Reservation System
+OIBSIP Java Development Internship Projects
+This repository contains projects completed during Oasis Infobyte Internship.
 
-## Oasis Infobyte Internship Project
-
-This project was developed as part of the **Oasis Infobyte Internship Program**.
-
-## Overview
-
-Train Ticket Reservation System is a Java-based web application that enables users to search trains, check seat availability, book tickets, and manage reservations efficiently.
+Task - 1 Online reservation system
 
 ## Features
 
@@ -45,3 +40,5 @@ Train Ticket Reservation System is a Java-based web application that enables use
 ## Author
 
 **Ojas Jain**
+## Internship
+Oasis Infobyte (OIBSIP)
